@@ -15,7 +15,6 @@ Analisos de técnicas númericas -> profesor Jaider de la Rosa Bertel >
     -  <Mostrar los datos de entrada y la forma que se debe utilizar>
 
     -  <Añadir boton para que los usuarios accedan a la aplicación>
-
     
 )
 
@@ -23,7 +22,7 @@ Analisos de técnicas númericas -> profesor Jaider de la Rosa Bertel >
 {¿Como?}
 # Graficas con la libreria Tkinter.
 # Interfaces graficas con la libreria MathplotLib.
-# Utilizar paradicma Orientado a Objetos (OPP, POO).
+# Utilizar paradigma Orientado a Objetos (OPP, POO).
 
 
 
